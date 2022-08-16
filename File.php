@@ -1,3 +1,5 @@
+<?php 
+
 class FileTransfer extends UserAction
 {
     public static string $collection = 'files';
